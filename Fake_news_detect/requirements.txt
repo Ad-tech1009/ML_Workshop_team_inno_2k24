@@ -1,0 +1,8 @@
+﻿streamlit
+pandas
+numpy
+opencv-python
+scikit-learn
+tensorflow
+joblib
+nltk
